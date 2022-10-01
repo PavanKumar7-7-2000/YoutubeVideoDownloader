@@ -1,1 +1,4 @@
 # YoutubeVideoDownloader
+
+Dependices:
+pytube
